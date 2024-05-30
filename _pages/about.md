@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 ## Hello! Welcome to My Website
 
-My name is Pantakit Malithong, but you can call me Joseph. I am a student majoring in Computer Engineering and Artificial Intelligence at Mahanakorn University of Technology. I have a passion for Back End Development and DevOps. With a strong foundation in these fields, I am eager to apply my knowledge and skills to real-world challenges and innovative projects.
+My name is Pantakit Malithong, but you can call me **Joseph**. I am a student majoring in Computer Engineering and Artificial Intelligence at Mahanakorn University of Technology. I have a passion for Back End Development and DevOps. With a strong foundation in these fields, I am eager to apply my knowledge and skills to real-world challenges and innovative projects.
 
 ## Education Background
 
