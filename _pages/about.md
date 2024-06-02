@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My name is Pantakit Malithong, also known as Joseph. I am a student majoring in Computer Engineering and Artificial Intelligence at Mahanakorn University of Technology. I have a passion for back-end development and DevOps. With a strong foundation in these fields, I am eager to apply my knowledge and skills to real-world challenges and innovative projects.
+My name is Pantakit Malitong, also known as Joseph. I am a student majoring in Computer Engineering and Artificial Intelligence at Mahanakorn University of Technology. I have a passion for back-end development and DevOps. With a strong foundation in these fields, I am eager to apply my knowledge and skills to real-world challenges and innovative projects.
 
 ## Education Background
 
