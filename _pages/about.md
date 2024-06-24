@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: "\"Innovating for a smarter tomorrow.\""
+subtitle: '"Innovating for a smarter tomorrow."'
 
 profile:
   align: right
@@ -10,9 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Pantakit Malitong (Joseph)</p>
-    <p>พันธกิจ มะลิทอง (โจเซฟ)</p>
-    <p>@Chaiyaphum, Thailand</p>
-
+    <p>Chaiyaphum, Thailand</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -36,12 +34,3 @@ I specialize in the following areas:
 ## Personal Interests
 
 Besides my studies, I enjoy reading novels and coding personal projects. This helps me maintain a balanced lifestyle and inspires new ideas.
-
-## Contact
-
-If you would like to discuss further or are interested in collaborating with me, please feel free to contact me at:
-
-- Email: <mr.pantakit@gmail.com>
-<!-- - Phone Number: [your phone number] -->
-- LinkedIn: [pantakit](https://www.linkedin.com/in/pantakit/)
-- X (formerly Twitter): [@MrPantakit](https://x.com/MrPantakit)
