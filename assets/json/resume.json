@@ -68,12 +68,7 @@
       "name": "Programming",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Javascript",
-        "PHP",
-        "SQL",
-        "C++"
-      ]
+      "keywords": ["Javascript", "PHP", "SQL", "C++"]
     }
   ],
   "languages": [
@@ -97,10 +92,7 @@
     {
       "name": "Programming language",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Golang",
-        "Rust"
-      ]
+      "keywords": ["Golang", "Rust"]
     }
   ]
 }
