@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "I&#39;m Pantakit Malitong (Joseph), a software developer passionate about DevOps and exploring modern programming languages. Here&#39;s a summary of my education and technical skills.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
