@@ -68,7 +68,15 @@
       "summary": ""
     }
   ],
-  "certificates": [],
+  "certificates": [
+    {
+      "name": "DevLab 4 Open Access",
+      "date": "17/03/2025",
+      "issuer": "Borntodev Co., Ltd.",
+      "url": "https://www.borntodev.com/devlab/certificate/456ae74b816fcd81c466e3175fbd2ec4",
+      "icon": "fa-solid fa-certificate"
+    }
+  ],
   "publications": [],
   "skills": [
     {
