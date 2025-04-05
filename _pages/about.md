@@ -30,7 +30,7 @@ I am Joseph Pantakit Malitong This student from Computer Engineering and AI Depa
 
 What i studied
 
-I am currently doing a BSc in Computer Engineering and Artificial Intelligence at Mahanakorn University of Technology. It has been an exciting adventure chasing down Artificial Intelligence, Software Engineering, Systems Design, Data Structures and Algorithms, Databases, Fundamentals of Data Science in Academic Journey. I have learned from projects and internships in my studies as well.
+I am currently doing a B.Eng. in Computer Engineering and Artificial Intelligence at Mahanakorn University of Technology. It has been an exciting adventure chasing down Artificial Intelligence, Software Engineering, Systems Design, Data Structures and Algorithms, Databases, Fundamentals of Data Science in Academic Journey. I have learned from projects and internships in my studies as well.
 
 ## Skills and Expertise
 
