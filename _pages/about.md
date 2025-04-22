@@ -26,20 +26,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Joseph Pantakit Malitong This student from Computer Engineering and AI Department at Mahanakorn University of technology. Back-end development, DevOps are my thing. Having solid roots in these fields, look forward to leveraging this knowledge into solving real problems or cutting edge projects.
-
-What i studied
-
-I am currently doing a B.Eng. in Computer Engineering and Artificial Intelligence at Mahanakorn University of Technology. It has been an exciting adventure chasing down Artificial Intelligence, Software Engineering, Systems Design, Data Structures and Algorithms, Databases, Fundamentals of Data Science in Academic Journey. I have learned from projects in my studies as well.
+Hello, I'm Joseph Pantakit Malitong, a student in the Computer Engineering and AI Department at Mahanakorn University of Technology. I specialize in back-end development and DevOps. With a solid foundation in these fields, I'm eager to leverage my knowledge to solve real-world problems and contribute to cutting-edge projects.
 
 ## Skills and Expertise
 
-Fav topics to write:
-
-- Programming Languages: JavaScript, PHP, SQL, Python, C++
-- Frameworks: Vue.js, CodeIgniter, Nuxt, Express.js, Fastapi
-- Tools: Git Version Control System, GitHub, GitLab, Jenkins, Node js
+- **Programming Languages:** JavaScript, PHP, SQL, Python, C++
+- **Frameworks:** Vue.js, CodeIgniter, Nuxt.js, Express.js, FastAPI
+- **Tools & Technologies:** Git, GitHub, GitLab, Jenkins, Node.js
 
 ## Personal Interests
 
-Reading while the desk remember coding personal project aside from my study. Keeping me balanced and sparks ideas to keep growing.
+Beyond my academic pursuits, I enjoy reading and working on personal coding projects. These activities help me maintain a balanced lifestyle while sparking new ideas and fostering continuous growth.
