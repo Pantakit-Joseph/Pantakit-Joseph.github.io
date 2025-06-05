@@ -6,7 +6,7 @@
     "email": "mr.pantakit@gmail.com",
     "phone": "-",
     "url": "https://pantakit-joseph.github.io",
-    "summary": "Major in Computer Engineering and Artificial Intelligence at Mahanakorn University of Technology.",
+    "summary": "-",
     "location": {
       "address": "",
       "postalCode": "",
@@ -25,17 +25,6 @@
   "work": [],
   "volunteer": [],
   "education": [
-    {
-      "institution": "Mahanakorn University of Technology",
-      "location": "Bangkok, Thailand",
-      "url": "https://mut.ac.th/",
-      "area": "Computer and Artificial Intelligence (Ai) Engineering",
-      "studyType": "Bachelor's Degree",
-      "startDate": "2024",
-      "endDate": "NOW",
-      "score": "10",
-      "courses": []
-    },
     {
       "institution": "Chaiyaphum Technical College",
       "location": "Chaiyaphum, Thailand",
