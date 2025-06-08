@@ -25,7 +25,9 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
 Hello, I'm Joseph Pantakit Malitong
+
 <!-- Hello, I'm Joseph Pantakit Malitong, a student in the Computer Engineering and AI Department at Mahanakorn University of Technology. I specialize in back-end development and DevOps. With a solid foundation in these fields, I'm eager to leverage my knowledge to solve real-world problems and contribute to cutting-edge projects. -->
 
 ## Skills and Expertise
@@ -35,5 +37,6 @@ Hello, I'm Joseph Pantakit Malitong
 - **Tools & Technologies:** Git, GitHub, GitLab, Jenkins, Node.js
 
 ## Personal Interests
+
 <!--
 Beyond my academic pursuits, I enjoy reading and working on personal coding projects. These activities help me maintain a balanced lifestyle while sparking new ideas and fostering continuous growth. -->
