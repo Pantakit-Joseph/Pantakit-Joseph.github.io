@@ -14,13 +14,7 @@
       "countryCode": "TH",
       "region": "Thailand"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "profiles": []
   },
   "work": [],
   "volunteer": [],
@@ -64,7 +58,7 @@
       "summary": "ได้รับรางวัลรองชนะเลิศอันดับ 2 ระดับภาค ทักษะเทคโนโลยีเครือข่าย ระดับ ปวส. ในการแข่งขันทักษะวิชาชีพ และ ทักษะพื้นฐาน งานประชุมวิชาการองค์การนักวิชาชีพในอนาคตแห่งประเทศไทย ครังที่ 32 ปีการศึกษา 2565"
     },
     {
-      "title": "การแข่งขันทักษะวิชาชีพ อันดับที่ 1 ทักษะเทคโนโลยีเครือข่าย ระดับ ปวส. ระดับภาค",
+      "title": "การแข่งขันทักษะวิชาชีพ อันดับที่ 1 ทักษะเทคโนโลยีเครือข่าย ระดับ ปวช. ระดับภาค",
       "date": "25/03/2021",
       "awarder": "สำนักงานคณะกรรมการการอาชีวศึกษา",
       "url": "/assets/pdf/awards/2564-03-25.pdf",
@@ -72,6 +66,13 @@
     }
   ],
   "certificates": [
+    {
+      "name": "Mastering Fundamental Golang : Building RESTAPI Project",
+      "date": "22/04/2025",
+      "issuer": "FutureSkill",
+      "url": "https://app.futureskill.co/api/certificate?courseId=171&userId=184821",
+      "icon": "fa-solid fa-certificate"
+    },
     {
       "name": "Rust Mastery Saga: ปลดล็อกพลัง Backend ด้วย Rust",
       "date": "18/03/2025",
