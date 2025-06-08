@@ -3,18 +3,17 @@
 {
   "name": "Jekyll",
   "image": "mcr.microsoft.com/devcontainers/jekyll",
-
   // Features to add to the dev container. More info: https://containers.dev/features.
   "features": {
     "ghcr.io/rocker-org/devcontainer-features/apt-packages:1": {
       "packages": "build-essential,imagemagick,inotify-tools,jupyter-nbconvert,procps,ruby-full,zlib1g-dev"
     },
-    "ghcr.io/devcontainers-contrib/features/prettier:1": {}
+    "ghcr.io/devcontainers/features/node:1": {
+      "version": "18"
+    }
   },
-
-  // Optionally: run jekyll serve automatically on container entering using the Docker entrypoint
-  "postAttachCommand": "./bin/entry_point.sh",
-
+  // Install Prettier and run entry point
+  "postCreateCommand": "npm install -g prettier && ./bin/entry_point.sh",
   "customizations": {
     "vscode": {
       "extensions": ["esbenp.prettier-vscode", "sissel.shopify-liquid", "yzhang.markdown-all-in-one"],
@@ -26,6 +25,5 @@
       }
     }
   },
-
   "remoteUser": "vscode"
 }
